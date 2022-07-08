@@ -2,6 +2,6 @@
 
 Esta saga de libros cuenta la historia de Larry Plotter, un hacker excepcional.
 
-**breidev**
+**breidev**, psicologo del codigo
 
 
